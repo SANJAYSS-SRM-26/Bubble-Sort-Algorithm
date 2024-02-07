@@ -5,6 +5,7 @@ The main function initializes an array of integers with some values, calls the b
 
 # Contents:
 Bubblesort.c: Contains the C code implementing the Bubble Sort algorithm.
+<br>
 README.md: Provides information about the Bubble Sort algorithm and how the provided code implements it.
 
 # Usage:
